@@ -1,0 +1,6 @@
+{
+  "name": "centiment-app",
+  "dependencies": {
+    "chartjs": "2.1.6"
+  }
+}
